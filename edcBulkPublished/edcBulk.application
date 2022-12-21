@@ -14,14 +14,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\edcBulk_1_0_0_0\edcBulk.dll.manifest" size="276557">
+    <dependentAssembly dependencyType="install" codebase="Application Files\edcBulk_1_0_0_0\edcBulk.dll.manifest" size="276859">
       <assemblyIdentity name="edcBulk.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zUvAxBst/vNXzTJiLc0aEwX6wj2QEMa2N9XRHvfXZS8=</dsig:DigestValue>
+        <dsig:DigestValue>BamsCwyWeDSrhWg+Aqx9THQI79CBzsv72jSKpUc2UYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
