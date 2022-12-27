@@ -531,22 +531,22 @@
       <dsig:DigestValue>sGYBv9QhKdcFfe6nd9Kdt88kTm+D+RCeMZnrDG1w7jk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll" size="1167872">
+  <file name="edcBulk.dll" size="1175552">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>n6yzNvXkeZPWpWWfNeSlfaa+e64suTFqRu5GPmCoSSE=</dsig:DigestValue>
+      <dsig:DigestValue>kI0dEA+Y6ERiCqxM3KCn6sgGKaqA+VFW8QCs87WmPvQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll.config" size="2808">
+  <file name="edcBulk.dll.config" size="2888">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eKKLNCIP2MlmoOnp6sScCykE+F8DkRhAnTZy0lF2Iaw=</dsig:DigestValue>
+      <dsig:DigestValue>jsQdYZpdeYEm7TxJu9+cZu81DCOB0jqJRLgfkE1cjFM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="edcBulk.exe" size="359936">
@@ -5985,5 +5985,5 @@
       <dsig:DigestValue>TelsUzCCOhwFrS7w1AL3SC8cgYSxyoII6fQfQtgnQwU=</dsig:DigestValue>
     </hash>
   </file>
-  <fileAssociation extension=".meta" description="Data Catalog Metadata" progid="edc.edcBulk" defaultIcon="EDC_database_add.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
+  <fileAssociation extension=".meta" description="Data Catalog metadata" progid="EDC.edcBulk" defaultIcon="EDC_database_add.ico" xmlns="urn:schemas-microsoft-com:clickonce.v1" />
 </asmv1:assembly>
