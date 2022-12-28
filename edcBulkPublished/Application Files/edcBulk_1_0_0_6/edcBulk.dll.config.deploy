@@ -12,7 +12,6 @@
     </configProtectedData>
     <appSettings>
       <add key="alation.ServiceUri" value="dev.alation.edav.cdc.gov" />
-      <add key="StoreMetaFilePath" value="c:\\Temp" />
     </appSettings>
   <system.diagnostics>
     <trace autoflush="true" indentsize="3">
@@ -49,6 +48,9 @@
             </setting>
             <setting name="userid" serializeAs="String">
                 <value>51</value>
+            </setting>
+            <setting name="StoreMetaFilePath" serializeAs="String">
+                <value>c:\\MyMeta</value>
             </setting>
         </edcBulk.Properties.Settings>
     </userSettings>
