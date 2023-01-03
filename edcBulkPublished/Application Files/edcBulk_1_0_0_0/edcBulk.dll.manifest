@@ -531,22 +531,22 @@
       <dsig:DigestValue>sGYBv9QhKdcFfe6nd9Kdt88kTm+D+RCeMZnrDG1w7jk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll" size="1167360">
+  <file name="edcBulk.dll" size="982016">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>d9EVctgGCPbmv4+5M/8wJMCu5YJ/huUN5rR9P4l42uQ=</dsig:DigestValue>
+      <dsig:DigestValue>bhoHL3F9dPF5WEQ9haI+Jp2ZQNRHn5McT5nMWDByfrg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll.config" size="2808">
+  <file name="edcBulk.dll.config" size="2888">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eKKLNCIP2MlmoOnp6sScCykE+F8DkRhAnTZy0lF2Iaw=</dsig:DigestValue>
+      <dsig:DigestValue>jsQdYZpdeYEm7TxJu9+cZu81DCOB0jqJRLgfkE1cjFM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="edcBulk.exe" size="359936">
@@ -925,15 +925,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>2/ywGm/nyzcOoCJbjw+VyxR596W4K+qTqGqfGVYQKuU=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="icon\cloud_storage_folder_icon_by_carnoud_d6o7747-fullview.png" size="50419">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>2KSqcqjBTfguzpAfXCcyNcISVvl0WtevkKU7u/p8A9c=</dsig:DigestValue>
     </hash>
   </file>
   <file name="icon\EDC_database_add.ico" size="205956">
