@@ -324,13 +324,22 @@
       <dsig:DigestValue>/13drpKzeYzADBSnBuy2Mpwnqm17tugrOTz4tzZkWLo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\admincodes.json" size="2311">
+  <file name="data\admincodes.json" size="79787">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xgnlY1IsqKw0mcuHJIjQBnTrodaQiZ88/nctdyTZdm4=</dsig:DigestValue>
+      <dsig:DigestValue>Kh6VKyYDvqFo6mTb/GvMayoxPVPm2m88tOzfM3//L5o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\NCEH.json" size="2664">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>NW+s5a9g48FHkLAIXyNQHsQWAXmH/VzICAurM+nT0TU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="de\Microsoft.VisualBasic.Forms.resources.dll" size="25736">
@@ -531,22 +540,22 @@
       <dsig:DigestValue>sGYBv9QhKdcFfe6nd9Kdt88kTm+D+RCeMZnrDG1w7jk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll" size="982016">
+  <file name="edcBulk.dll" size="984576">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bhoHL3F9dPF5WEQ9haI+Jp2ZQNRHn5McT5nMWDByfrg=</dsig:DigestValue>
+      <dsig:DigestValue>LF9ngst1YYtgdNsYyjHnIrxvsyqeRzQIuRCqaOYvhiE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="edcBulk.dll.config" size="2888">
+  <file name="edcBulk.dll.config" size="3012">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>jsQdYZpdeYEm7TxJu9+cZu81DCOB0jqJRLgfkE1cjFM=</dsig:DigestValue>
+      <dsig:DigestValue>6+7nEkk8jP24C0eqf00FUo48WNISSQJ9baTM0NS/SXo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="edcBulk.exe" size="359936">

@@ -52,6 +52,9 @@
             <setting name="StoreMetaFilePath" serializeAs="String">
                 <value>c:\\MyMeta</value>
             </setting>
+            <setting name="orgid" serializeAs="String">
+                <value>admincodes</value>
+            </setting>
         </edcBulk.Properties.Settings>
     </userSettings>
 </configuration>

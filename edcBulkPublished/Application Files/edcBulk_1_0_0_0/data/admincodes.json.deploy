@@ -1,92 +1,2909 @@
 {
   "AdminCodes": [
     {
-      "admincode": "HCUG",
-      "value": "NCEH-National Center for Environmental Health"
-    },
-    {
-      "admincode": "HCUG1",
+      "admincode": "HCCA",
       "value": "OD-Office of the Director"
     },
     {
-      "admincode": "HCUG13",
-      "value": "OPPP-Office of Policy, Partnerships, and Planning"
+      "admincode": "HCCA1",
+      "value": "OAMS-Office of Administrative and Management Services"
     },
     {
-      "admincode": "HCUG14",
-      "value": "OMA-Office of Management and Analytics"
+      "admincode": "HCCA12",
+      "value": "ASBP-Administrative Services Branch (Pittsburgh)"
     },
     {
-      "admincode": "HCUGB",
-      "value": "DEEHS-Division of Emergency & Enironmental Health Svcs"
+      "admincode": "HCCA13",
+      "value": "ASBC-Administrative Services Branch (Cincinnati)"
     },
     {
-      "admincode": "HCUGB1",
+      "admincode": "HCCA14",
+      "value": "ASBS-Administrative Services Branch (Spokane)"
+    },
+    {
+      "admincode": "HCCA15",
+      "value": "MSB-Management Systems Branch"
+    },
+    {
+      "admincode": "HCCA16",
+      "value": "ASBM-Administrative Services Branch (Morgantown)"
+    },
+    {
+      "admincode": "HCCA3",
+      "value": "OECSP-Office of Extramural Coordination and Special Projects"
+    },
+    {
+      "admincode": "HCCA32",
+      "value": "ORDP-OECSP Research Development & Planning"
+    },
+    {
+      "admincode": "HCCA33",
+      "value": "GARB-Grants Administration & Review Branch"
+    },
+    {
+      "admincode": "HCCA34",
+      "value": "TERB-Technical Evaluation & Review Branch"
+    },
+    {
+      "admincode": "HCCA35",
+      "value": "ROB-Regional Operations Branch"
+    },
+    {
+      "admincode": "HCCC",
+      "value": "HELD-Health Effects Laboratory Division"
+    },
+    {
+      "admincode": "HCCC2",
+      "value": "HRDP-HELD Research Development & Planning"
+    },
+    {
+      "admincode": "HCCCB",
+      "value": "TMBB-Toxicology and Molecular Biology Branch"
+    },
+    {
+      "admincode": "HCCCC",
+      "value": "PPRB-Pathology and Physiological Research Branch"
+    },
+    {
+      "admincode": "HCCCD",
+      "value": "EAB-Exposure Assessment Branch"
+    },
+    {
+      "admincode": "HCCCE",
+      "value": "PERB-Physical Effects Research Branch"
+    },
+    {
+      "admincode": "HCCCG",
+      "value": "ACIB-Allergy and Clinical Immunology Branch"
+    },
+    {
+      "admincode": "HCCCH",
+      "value": "BB-Bioanalytics Branch"
+    },
+    {
+      "admincode": "HCCCJ",
+      "value": "HCRB-Health Communications Research Branch"
+    },
+    {
+      "admincode": "HCCE",
+      "value": "DSI-Division of Science Integration"
+    },
+    {
+      "admincode": "HCCE2",
+      "value": "EID/RDP-EID Research Development & Planning"
+    },
+    {
+      "admincode": "HCCEB",
+      "value": "SAB-Science Applications Branch"
+    },
+    {
+      "admincode": "HCCEC",
+      "value": "SSTRB-Social Science and Translation Research Branch"
+    },
+    {
+      "admincode": "HCCED",
+      "value": "DDB-Document Development Branch"
+    },
+    {
+      "admincode": "HCCEE",
+      "value": "REB-Risk Evaluation Branch"
+    },
+    {
+      "admincode": "HCCG",
+      "value": "DART-Division of Applied Research and Technology"
+    },
+    {
+      "admincode": "HCCG2",
+      "value": "DRDP-DART Research Development & Planning"
+    },
+    {
+      "admincode": "HCCGB",
+      "value": "BHAB-Biomonitoring and Health Assessment Branch"
+    },
+    {
+      "admincode": "HCCGB2",
+      "value": "RHAS-Reproduction Health Assessment Section"
+    },
+    {
+      "admincode": "HCCGC",
+      "value": "CEMB-Chemical Exposure and Monitoring Branch"
+    },
+    {
+      "admincode": "HCCGD",
+      "value": "EPHB-Engineering and Physical Hazards Branch"
+    },
+    {
+      "admincode": "HCCGE",
+      "value": "OSHFB-Organizational Science and Human Factors Branch"
+    },
+    {
+      "admincode": "HCCH",
+      "value": "RHD-Respiratory Health Division"
+    },
+    {
+      "admincode": "HCCH1",
       "value": "OD-Office of the Director"
     },
     {
-      "admincode": "HCUGBB",
-      "value": "EPHRB-Environmental Public Health Readiness Branch"
+      "admincode": "HCCHB",
+      "value": "FSB-Field Studies Branch"
     },
     {
-      "admincode": "HCUGBC",
-      "value": "EHSB-Environmental Health Services Branch"
+      "admincode": "HCCHD",
+      "value": "SB-Surveillance Branch"
     },
     {
-      "admincode": "HCUGBE",
-      "value": "VSB-Vessel Sanitation Branch"
+      "admincode": "HCCHD2",
+      "value": "CWHSPA-Coal Workers Health Surv Program Act"
     },
     {
-      "admincode": "HCUGBG",
-      "value": "HHLPPB-Healthy Homes & Lead Poisoning Prevention Branch"
+      "admincode": "HCCJ",
+      "value": "DSR-Division of Safety Research"
     },
     {
-      "admincode": "HCUGC",
-      "value": "DEHHE-Division of Environmental Hazards & Health Effects"
+      "admincode": "HCCJ2",
+      "value": "DRDP-DSR Research Development and Planning"
     },
     {
-      "admincode": "HCUGCB",
-      "value": "RSB-Radiation Studies Branch"
+      "admincode": "HCCJB",
+      "value": "AFEB-Analysis and Field Evaluations Branch"
     },
     {
-      "admincode": "HCUGCC",
-      "value": "APRHB-Air Pollution and Respiratory Health Branch"
+      "admincode": "HCCJC",
+      "value": "PTB-Protective Technology Branch"
     },
     {
-      "admincode": "HCUGCD",
-      "value": "EHTB-Environmental Health Tracking Branch"
+      "admincode": "HCCJD",
+      "value": "SFIB-Surveillance and Field Investigations Branch"
     },
     {
-      "admincode": "HCUGCE",
-      "value": "HSB-Health Studies Branch"
+      "admincode": "HCCK",
+      "value": "DFSE-Division of Field Studies and Engineering"
     },
     {
-      "admincode": "HCUGD",
-      "value": "DLS-Division of Laboratory Sciences"
+      "admincode": "HCCK2",
+      "value": "DSHEFS Research Development & Planning"
     },
     {
-      "admincode": "HCUGDC",
-      "value": "IRATB-Inorganic & Radiation Analytical Toxicology Branch"
+      "admincode": "HCCKB",
+      "value": "HETAB-Hazard Evaluations and Technical Assistance Branch"
     },
     {
-      "admincode": "HCUGDD",
-      "value": "CCB-Clinical Chemistry Branch"
+      "admincode": "HCCKC",
+      "value": "FRB-Field Research Branch"
     },
     {
-      "admincode": "HCUGDE",
-      "value": "OATB-Organic Anayltical Toxicology Branch"
+      "admincode": "HCCKD",
+      "value": "HIB-Health Informatics Branch"
     },
     {
-      "admincode": "HCUGDG",
-      "value": "NSMBB-Newborn Screening & Molecular Biology Branch"
+      "admincode": "HCCL",
+      "value": "NPPTL-National Personal Protective Technology Laboratory"
     },
     {
-      "admincode": "HCUGDH",
-      "value": "ERB-Emergency Response Branch"
+      "admincode": "HCCL2",
+      "value": "National Personal Protective Technology Lab"
     },
     {
-      "admincode": "HCUGDJ",
-      "value": "NBB-Nutritional Biomarkers Branch"
-    }
+      "admincode": "HCCLE-CVSDB",
+      "value": "Conformity Verification and Standards Development Branch"
+    },
+    {
+      "admincode": "HCCLG-RB",
+      "value": "Research Branch"
+    },
+    {
+      "admincode": "HCCLH-ETB",
+      "value": "Evaluation and Testing Branch"
+    },
+    {
+      "admincode": "HCCM",
+      "value": "OMSHR-Office of Mine Safety and Health Research"
+    },
+    {
+      "admincode": "HCG",
+      "value": "OPHPR-Office of Public Health Preparedness and Response"
+    },
+    {
+      "admincode": "HCGA",
+      "value": "Office of the Director"
+    },
+    {
+      "admincode": "HCGA2",
+      "value": "Office of the Director"
+    },
+    {
+      "admincode": "HCGA3",
+      "value": "IRO-Information Resources Office"
+    },
+    {
+      "admincode": "HCGA4",
+      "value": "CO-Communications Office"
+    },
+    {
+      "admincode": "HCGA6",
+      "value": "OPPE-Office Policy}, Planning & Evaluation"
+    },
+      {
+        "admincode": "HCGA7",
+        "value": "SPHP-Science & Public Health Practice"
+      },
+      {
+        "admincode": "HCGA8",
+        "value": "MRO-Management Resources Office"
+      },
+      {
+        "admincode": "HCGC",
+        "value": "DSLR-Division of State and Local Readiness"
+      },
+      {
+        "admincode": "HCGC1",
+        "value": "Office of the Director"
+      },
+      {
+        "admincode": "HCGCB",
+        "value": "PSB-Program Services Branch"
+      },
+      {
+        "admincode": "HCGCB2",
+        "value": "PSB-Atlanta Staff"
+      },
+      {
+        "admincode": "HCGCB3",
+        "value": "PSB/FS-PSB",
+        "value": "Field Staff"
+      },
+      {
+        "admincode": "HCGCC",
+        "value": "ASEB-Applied Science and Evaluation Branch"
+      },
+      {
+        "admincode": "HCGCC2",
+        "value": "Data Analysis and Support"
+      },
+      {
+        "admincode": "HCGCC3",
+        "value": "M&E-Measurement and Evaluation"
+      },
+      {
+        "admincode": "HCGE",
+        "value": "DSNS-Division of Strategic National Stockpile"
+      },
+      {
+        "admincode": "HCGE1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCGEB",
+        "value": "LB-Logistics Branch"
+      },
+      {
+        "admincode": "HCGED",
+        "value": "PAB-Program and Analysis Branch"
+      },
+      {
+        "admincode": "HCGEE",
+        "value": "RB-Response Branch"
+      },
+      {
+        "admincode": "HCGF",
+        "value": "DSAT-Division of Select Agents and Toxins"
+      },
+      {
+        "admincode": "HCGF7",
+        "value": "SFT-Special Functions Team"
+      },
+      {
+        "admincode": "HCGG",
+        "value": "DEO-Division of Emergency Operations"
+      },
+      {
+        "admincode": "HCGG2",
+        "value": "OD"
+      },
+      {
+        "admincode": "HCGG3",
+        "value": "Plans"
+      },
+      {
+        "admincode": "HCGG4",
+        "value": "OPS-Operations"
+      },
+      {
+        "admincode": "HCGG5",
+        "value": "EOC-Emergency Operations Center"
+      },
+      {
+        "admincode": "HCGG6",
+        "value": "EOT-Emergency Operations Travel"
+      },
+      {
+        "admincode": "HCGG7",
+        "value": "Logistics"
+      },
+      {
+        "admincode": "HCGG8",
+        "value": "Science"
+      },
+      {
+        "admincode": "HCP",
+        "value": "DDPHS-Deputy Director for Public Health Science and Surveillance"
+      },
+      {
+        "admincode": "HCPA",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPC",
+        "value": "NCHS-National Center for Health Statistics"
+      },
+      {
+        "admincode": "HCPC1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPC12",
+        "value": "OMO-Office of Management and Operations"
+      },
+      {
+        "admincode": "HCPC122",
+        "value": "BOSS-Building Operations and Services Staff"
+      },
+      {
+        "admincode": "HCPC123",
+        "value": "BLS-Business Logistics Staff"
+      },
+      {
+        "admincode": "HCPC14",
+        "value": "OPBL-Office of Planning, Budget, and Legislation"
+      },
+      {
+        "admincode": "HCPC15",
+        "value": "OIS-Office of Information Services"
+      },
+      {
+        "admincode": "HCPC151",
+        "value": "OD-Office of the Director for OIS"
+      },
+      {
+        "admincode": "HCPC152",
+        "value": "IDS-Information Dissemination Staff"
+      },
+      {
+        "admincode": "HCPC153",
+        "value": "IDPS-Information Design and Publishing Staff"
+      },
+      {
+        "admincode": "HCPC16",
+        "value": "CPHDSS-Classifications & Public Health Data Standards Staff"
+      },
+      {
+        "admincode": "HCPC17",
+        "value": "OIT-Office of Information Technology"
+      },
+      {
+        "admincode": "HCPC171",
+        "value": "OD-Office of the Director for OIT"
+      },
+      {
+        "admincode": "HCPC172",
+        "value": "ITSSS-Information Technology Solutions and Services Staff"
+      },
+      {
+        "admincode": "HCPCB",
+        "value": "DAE-Division of Analysis and Epidemiology"
+      },
+      {
+        "admincode": "HCPCBB",
+        "value": "HPSB-Health Promotion Statistics Branch"
+      },
+      {
+        "admincode": "HCPCBC",
+        "value": "ACDSB-Aging and Chronic Disease Statistics Branch"
+      },
+      {
+        "admincode": "HCPCBD",
+        "value": "MREB-Measures Research and Evaluation Branch"
+      },
+      {
+        "admincode": "HCPCBE",
+        "value": "DLMAB-Data Linkage Methodology and Analysis Branch"
+      },
+      {
+        "admincode": "HCPCBG",
+        "value": "PHRDB-Population Health Reporting and Dissemination Branch"
+      },
+      {
+        "admincode": "HCPCC",
+        "value": "DVS-Division of Vital Statistics"
+      },
+      {
+        "admincode": "HCPCC1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPCCB",
+        "value": "DACEB-Data Aquisition, Classification and Evaluation Branch"
+      },
+      {
+        "admincode": "HCPCCC",
+        "value": "MSB-Mortality Statistics Branch"
+      },
+      {
+        "admincode": "HCPCCD",
+        "value": "RSB-Reproductive Statistics Branch"
+      },
+      {
+        "admincode": "HCPCCE",
+        "value": "ITB-Information Technology Branch"
+      },
+      {
+        "admincode": "HCPCD",
+        "value": "DHCS-Division of Health Care Statistics"
+      },
+      {
+        "admincode": "HCPCD1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPCDB",
+        "value": "AHCSB-Ambulatory and Hospital Care Statistics Branch"
+      },
+      {
+        "admincode": "HCPCDD",
+        "value": "LTCS-Long-Term Care Statistics"
+      },
+      {
+        "admincode": "HCPCDE",
+        "value": "TSB-Technical Services Branch"
+      },
+      {
+        "admincode": "HCPCE",
+        "value": "DHIS-Division of Health Interview Statistics"
+      },
+      {
+        "admincode": "HCPCE1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPCEB",
+        "value": "DPSB-Data Production and Systems Branch"
+      },
+      {
+        "admincode": "HCPCEC",
+        "value": "SPSSB-Survey Planning and Special Surveys Branch"
+      },
+      {
+        "admincode": "HCPCED",
+        "value": "DAQAB-Data Analysis and Quality Assurance Branch"
+      },
+      {
+        "admincode": "HCPCG",
+        "value": "DHNES-Division of Health and Nutrition Examination Surveys"
+      },
+      {
+        "admincode": "HCPCG1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCPCGB",
+        "value": "AB-Analysis Branch"
+      },
+      {
+        "admincode": "HCPCGC",
+        "value": "IB-Informatics Branch"
+      },
+      {
+        "admincode": "HCPCGD",
+        "value": "OB-Operations Branch"
+      },
+      {
+        "admincode": "HCPCGE",
+        "value": "PB-Planning Branch"
+      },
+      {
+        "admincode": "HCPCH",
+        "value": "DRM-Division of Research and Methodology"
+      },
+      {
+        "admincode": "HCPCHB",
+        "value": "CCSRSD-Collaborating Center for Statistical Research and Survey Design"
+      },
+      {
+        "admincode": "HCU",
+        "value": "DDNID-Deputy Director for Non-Infectious Diseases"
+      },
+      {
+        "admincode": "HCUA",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUB",
+        "value": "NCBDDD-Ntl Ctr on Birth Defects & Developmental Disabilities"
+      },
+      {
+        "admincode": "HCUB1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUB12",
+        "value": "RMO-Resource Management Office"
+      },
+      {
+        "admincode": "HCUBB",
+        "value": "DBDID-Division of Birth Defects and Infant Disorders"
+      },
+      {
+        "admincode": "HCUBB1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUBBB",
+        "value": "BMRB-Birth Monitoring and Research Branch"
+      },
+      {
+        "admincode": "HCUBBC",
+        "value": "IOMRPB-Infant Outcomes Monitoring, Research and Prevention Branch"
+      },
+      {
+        "admincode": "HCUBBD",
+        "value": "DDB-Developmental Disabilities Branch"
+      },
+      {
+        "admincode": "HCUBC",
+        "value": "DHDD-Division of Human Development and Disability"
+      },
+      {
+        "admincode": "HCUBD",
+        "value": "DBD-Division of Blood Disorders"
+      },
+      {
+        "admincode": "HCUBD1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUC",
+        "value": "NCCDPHP-National Ctr for Chronic Disease Prevention & Hlth Prom"
+      },
+      {
+        "admincode": "HCUC1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUC13",
+        "value": "OAS-Office of Administrative Services"
+      },
+      {
+        "admincode": "HCUC15",
+        "value": "OC-Office of Communication"
+      },
+      {
+        "admincode": "HCUC16",
+        "value": "OIIRM-Office of Informatics & Information ResourceS Management"
+      },
+      {
+        "admincode": "HCUC17",
+        "value": "OPE-Office of Policy, Planning & Partnerships"
+      },
+      {
+        "admincode": "HCUC18",
+        "value": "BOT-Business Operations Team"
+      },
+      {
+        "admincode": "HCUC19",
+        "value": "GST-Grants Services Team"
+      },
+      {
+        "admincode": "HCUCC",
+        "value": "DCPC-Division of Cancer Prevention and Control"
+      },
+      {
+        "admincode": "HCUCC1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCCB",
+        "value": "EARB-Epidemiology and Applied Research Branch"
+      },
+      {
+        "admincode": "HCUCCC",
+        "value": "CSB-Cancer Surveillance Branch"
+      },
+      {
+        "admincode": "HCUCCD",
+        "value": "PSB-Program Services Branch"
+      },
+      {
+        "admincode": "HCUCCG",
+        "value": "CCCB-Comprehensive Cancer Control Branch"
+      },
+      {
+        "admincode": "HCUCD",
+        "value": "DOH-Division of Oral Health"
+      },
+      {
+        "admincode": "HCUCD1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCG",
+        "value": "DDT-Division of Diabetes Translation"
+      },
+      {
+        "admincode": "HCUCG1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCGB",
+        "value": "ESB-Surveillance, Epidemiology, Economics, and Statistics Branch"
+      },
+      {
+        "admincode": "HCUCGB2",
+        "value": "SST-Statistics Team"
+      },
+      {
+        "admincode": "HCUCGB3",
+        "value": "ET-Epidemiology Team"
+      },
+      {
+        "admincode": "HCUCGB4",
+        "value": "SVT-Surveillance Team"
+      },
+      {
+        "admincode": "HCUCGC",
+        "value": "PIB-Program Implementation Branch"
+      },
+      {
+        "admincode": "HCUCGC2",
+        "value": "NDPPT-National Diabetes Prevention Program Team"
+      },
+      {
+        "admincode": "HCUCGC3",
+        "value": "TRTT-Tribal Regional and Territorial Team"
+      },
+      {
+        "admincode": "HCUCGC4",
+        "value": "SLCT-State and Local Consultation Team"
+      },
+      {
+        "admincode": "HCUCGC5",
+        "value": "PACT-Program Admin Coordination Team"
+      },
+      {
+        "admincode": "HCUCH",
+        "value": "DNPAO-Div of Nutrition, Physical Activity, & Obesity"
+      },
+      {
+        "admincode": "HCUCH1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCH12",
+        "value": "PPC-Policy, Partnerships & Communications"
+      },
+      {
+        "admincode": "HCUCHC",
+        "value": "NB-Nutrition Branch"
+      },
+      {
+        "admincode": "HCUCHD",
+        "value": "PAHB-Physical Activity and Health Branch"
+      },
+      {
+        "admincode": "HCUCHG",
+        "value": "OPCB-Obesity Prevention and Control Branch"
+      },
+      {
+        "admincode": "HCUCHH",
+        "value": "PDEB-Program Development and Evaluation Branch"
+      },
+      {
+        "admincode": "HCUCJ",
+        "value": "DRH-Division of Reproductive Health"
+      },
+      {
+        "admincode": "HCUCJ1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCJB",
+        "value": "MIHB-Maternal and Infant Health Branch"
+      },
+      {
+        "admincode": "HCUCJE",
+        "value": "WHFB-Women\\'s Health and Fertility Branch"
+      },
+      {
+        "admincode": "HCUCJG",
+        "value": "FSB-Field Support Branch"
+      },
+      {
+        "admincode": "HCUCL",
+        "value": "OSH-Office on Smoking and Health"
+      },
+      {
+        "admincode": "HCUCL1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCL12",
+        "value": "PPCU-Policy, Planning, and Coordination Unit"
+      },
+      {
+        "admincode": "HCUCLB",
+        "value": "EB-Epidemiology Branch"
+      },
+      {
+        "admincode": "HCUCLC",
+        "value": "HCB-Health Communications Branch"
+      },
+      {
+        "admincode": "HCUCLD",
+        "value": "PSB-Program Services Branch"
+      },
+      {
+        "admincode": "HCUCM",
+        "value": "DHDSP-Division of Heart Disease and Stroke Prevention"
+      },
+      {
+        "admincode": "HCUCM1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCUCMB",
+        "value": "ESB-Epidemiology and Surveillance Branch"
+      },
+      {
+        "admincode": "HCUCMC",
+        "value": "AREB-Applied Research and Evaluation Branch"
+      },
+      {
+        "admincode": "HCUCMD",
+        "value": "PDSB-Program Development and Services Branch"
+      },
+      {
+        "admincode": "HCV",
+        "value": "DDID-Deputy Director for Infectious Diseases"
+      },
+      {
+        "admincode": "HCVA",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVC",
+        "value": "NCID-National Center for Infectious Diseases"
+      },
+      {
+        "admincode": "HCVCL",
+        "value": "DVH-Division of Viral Hepatitis"
+      },
+      {
+        "admincode": "HCVG",
+        "value": "NCIRD-Natl Center for Immunization and Respiratory Diseases"
+      },
+      {
+        "admincode": "HCVG1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVGB",
+        "value": "ISD-Immunization Services Division"
+      },
+      {
+        "admincode": "HCVGB1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVGBB",
+        "value": "POB-Program Operations Branch"
+      },
+      {
+        "admincode": "HCVGBC",
+        "value": "VSAB-Vaccine Supply and Assurance Branch"
+      },
+      {
+        "admincode": "HCVGBE",
+        "value": "IISSB-Immunization Information System Support Branch"
+      },
+      {
+        "admincode": "HCVGBG",
+        "value": "AB-Assessment Branch"
+      },
+      {
+        "admincode": "HCVGBH",
+        "value": "CEB-Communication Education Branch"
+      },
+      {
+        "admincode": "HCVGD",
+        "value": "ID-Influenza Division"
+      },
+      {
+        "admincode": "HCVGD1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVGDB",
+        "value": "VSDB-Virology, Surveillance and Diagnosis Branch"
+      },
+      {
+        "admincode": "HCVGDC",
+        "value": "EPB-Epidemiology and Prevention Branch"
+      },
+      {
+        "admincode": "HCVGDE",
+        "value": "IPB-Immunology and Pathogenesis Branch"
+      },
+      {
+        "admincode": "HCVGE",
+        "value": "DVD-Division of Viral Diseases"
+      },
+      {
+        "admincode": "HCVGE1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVGEB",
+        "value": "RVB-Respiratory Virus Branch"
+      },
+      {
+        "admincode": "HCVGEC",
+        "value": "PPLB-Polio and Picornavirus Laboratory Branch"
+      },
+      {
+        "admincode": "HCVGED",
+        "value": "VVPDB-Viral Vaccine Preventable Diseases Branch"
+      },
+      {
+        "admincode": "HCVGEE",
+        "value": "VGB-Viral Gastroenteritis Branch"
+      },
+      {
+        "admincode": "HCVGG",
+        "value": "DBD-Division of Bacterial Diseases"
+      },
+      {
+        "admincode": "HCVGG1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVGGB",
+        "value": "RDB-Respiratory Diseases Branch"
+      },
+      {
+        "admincode": "HCVGGC",
+        "value": "MVPDB-Meningitis and Vaccine Preventable Diseases Branch"
+      },
+      {
+        "admincode": "HCVJ",
+        "value": "NCHHSTP-Natl Ctr for HIV, Viral Hepatitis, STD, & TB Prevention"
+      },
+      {
+        "admincode": "HCVJ1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJB",
+        "value": "DHPIRS-Div of HIV/AIDS Prevention-Intervention Res & Support"
+      },
+      {
+        "admincode": "HCVJB1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJB12",
+        "value": "DA-IRS-Direct Assistance-IRS"
+      },
+      {
+        "admincode": "HCVJB2",
+        "value": "EA-IRS-Extramural Activities-IRS"
+      },
+      {
+        "admincode": "HCVJB2X",
+        "value": "EA-Extramural Activities"
+      },
+      {
+        "admincode": "HCVJB2X1",
+        "value": "ODIRS-ODIRS"
+      },
+      {
+        "admincode": "HCVJB2X2",
+        "value": "CBB-CBB"
+      },
+      {
+        "admincode": "HCVJB2X3",
+        "value": "PERB-PERB"
+      },
+      {
+        "admincode": "HCVJB2X4",
+        "value": "PPB-PPB"
+      },
+      {
+        "admincode": "HCVJB2X5",
+        "value": "PRB-PRB"
+      },
+      {
+        "admincode": "HCVJB2X6",
+        "value": "TICB-TICB"
+      },
+      {
+        "admincode": "HCVJBB",
+        "value": "PRB-Prevention Research Branch"
+      },
+      {
+        "admincode": "HCVJBC",
+        "value": "PPB-Prevention Program Branch"
+      },
+      {
+        "admincode": "HCVJBD",
+        "value": "PEB-Program Evaluation Branch"
+      },
+      {
+        "admincode": "HCVJBE",
+        "value": "CBB-Capacity Building Branch"
+      },
+      {
+        "admincode": "HCVJBG",
+        "value": "PCB-Prevention Communications Branch"
+      },
+      {
+        "admincode": "HCVJC",
+        "value": "DHP-Division of HIV Prevention"
+      },
+      {
+        "admincode": "HCVJC1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJC12",
+        "value": "DA-SE-Direct Assistance-SE"
+      },
+      {
+        "admincode": "HCVJC5",
+        "value": "FA-SE-Financial Assistance-SE"
+      },
+      {
+        "admincode": "HCVJC5X",
+        "value": "FA-Financial Assistance"
+      },
+      {
+        "admincode": "HCVJC5X1",
+        "value": "ODSE-ODSE"
+      },
+      {
+        "admincode": "HCVJC5X2",
+        "value": "BCSB-BCSB"
+      },
+      {
+        "admincode": "HCVJC5X3",
+        "value": "LB-LAB BR"
+      },
+      {
+        "admincode": "HCVJC5X4",
+        "value": "EPI-EPI"
+      },
+      {
+        "admincode": "HCVJC5X5",
+        "value": "H-HICSB"
+      },
+      {
+        "admincode": "HCVJC5X6",
+        "value": "S-SDMB"
+      },
+      {
+        "admincode": "HCVJC5X7",
+        "value": "EI-EPI International"
+      },
+      {
+        "admincode": "HCVJCB",
+        "value": "HRB-HIV Research Branch"
+      },
+      {
+        "admincode": "HCVJCB2",
+        "value": "EII-EPI International Intramural"
+      },
+      {
+        "admincode": "HCVJCC",
+        "value": "BCSB-Behavioral and Clinical Surveillance Branch"
+      },
+      {
+        "admincode": "HCVJCD",
+        "value": "QSB-Quantitative Sciences Branch"
+      },
+      {
+        "admincode": "HCVJCE",
+        "value": "HSB-HIV Surveillance Branch"
+      },
+      {
+        "admincode": "HCVJCG",
+        "value": "LB-Laboratory Branch"
+      },
+      {
+        "admincode": "HCVJD",
+        "value": "DSTDP-Division of Sexually Transmitted Disease Prevention"
+      },
+      {
+        "admincode": "HCVJD1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJDB",
+        "value": "SBREB-Social & Behavioral Research & Evaluation Branch"
+      },
+      {
+        "admincode": "HCVJDC",
+        "value": "ESB-Epidemiology and Statistics Branch"
+      },
+      {
+        "admincode": "HCVJDD",
+        "value": "HSREB-Health Services Research and Evaluation Branch"
+      },
+      {
+        "admincode": "HCVJDE",
+        "value": "slrrb-STD Laboratory Reference and Research Branch"
+      },
+      {
+        "admincode": "HCVJDG",
+        "value": "PDEB-Program Development and Evaluation Branch"
+      },
+      {
+        "admincode": "HCVJDH",
+        "value": "SDSB-Surveillance and Data Science Branch"
+      },
+      {
+        "admincode": "HCVJE",
+        "value": "DTE-Division of Tuberculosis Elimination"
+      },
+      {
+        "admincode": "HCVJE1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJE12",
+        "value": "IA-International Activity"
+      },
+      {
+        "admincode": "HCVJE13",
+        "value": "DA-Direct Assistance"
+      },
+      {
+        "admincode": "HCVJEB",
+        "value": "CEBSB-Communications, Education, & Behavioral Studies Branch"
+      },
+      {
+        "admincode": "HCVJEC",
+        "value": "DMSB-Data Management, Statistics, and Evaluation Branch"
+      },
+      {
+        "admincode": "HCVJED",
+        "value": "FSEB-Field Services Branch"
+      },
+      {
+        "admincode": "HCVJEE",
+        "value": "CRB-Clinical Research Branch"
+      },
+      {
+        "admincode": "HCVJEG",
+        "value": "SEOIB-Surveillance, Epidemiology & Outbreak Investigations Br"
+      },
+      {
+        "admincode": "HCVJEH",
+        "value": "IRPB-International Research and Programs Branch"
+      },
+      {
+        "admincode": "HCVJEJ",
+        "value": "LB-Laboratory Branch"
+      },
+      {
+        "admincode": "HCVJH",
+        "value": "DVH-Division of Viral Hepatitis"
+      },
+      {
+        "admincode": "HCVJH1",
+        "value": "OD-Office of the Director"
+      },
+      {
+        "admincode": "HCVJHB",
+        "value": "ESB-Epidemiology and Surveillance Branch"
+      },
+      {
+        "admincode": "HCVJHC",
+        "value": "PB-Prevention Branch"
+      },
+      {
+        "admincode": "HCVJHD",
+        "value": "LB-Laboratory Branch"
+      },
+      {
+        "admincode": "HJ",
+        "value": "ATSDR-Agency for Toxic Substances and Disease Registry"
+      },
+      {
+        "admincode": "HJA",
+        "value": "OA-Office of the Administrator"
+      },
+      {
+          "admincode": "HJAA",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HJAA1",
+          "value": "OEHE-Office of Environmental Health Emergencies"
+        },
+        {
+          "admincode": "HJAA2",
+          "value": "OMA-Office of Management and Analytics"
+        },
+        {
+          "admincode": "HJAA21",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HJAA212",
+          "value": "BT-Budget Team"
+        },
+        {
+          "admincode": "HJAA213",
+          "value": "PIT-Performance Integration Team"
+        },
+        {
+          "admincode": "HJAA214",
+          "value": "CSFP-CERCLA & Small Federal Programs"
+        },
+        {
+          "admincode": "HJAA215",
+          "value": "DFP-DOD Federal Programs"
+        },
+        {
+          "admincode": "HJAA216",
+          "value": "DFPGM-DOE Federal Programs"
+        },
+        {
+          "admincode": "HJAA217",
+          "value": "AST-Administrative Services Team"
+        },
+        {
+          "admincode": "HJAA218",
+          "value": "ET-Extramural Team"
+        },
+        {
+          "admincode": "HJAA219",
+          "value": "FAST-Financial Accountability Service Team (Exclusive to ATSDR)"
+        },
+        {
+          "admincode": "HJAA3",
+          "value": "OPPE-Office of Policy, Partnerships, and Planning"
+        },
+        {
+          "admincode": "HJAA5",
+          "value": "OPD-Office of Program Development"
+        },
+        {
+          "admincode": "HCGF1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCGFB",
+          "value": "OB-Operations Branch"
+        },
+        {
+          "admincode": "HCGFC",
+          "value": "PMOB-Program Management and Operations Branch"
+        },
+        {
+          "admincode": "HCGFD",
+          "value": "PSB-Program Services Branch"
+        },
+        {
+          "admincode": "HCGG1",
+          "value": "O/D-Office of the Director"
+        },
+        {
+          "admincode": "HCGGB",
+          "value": "ERCB-Emergency and Risk Communications Branch"
+        },
+        {
+          "admincode": "HCGGC",
+          "value": "LSB-Logistics Support Branch"
+        },
+        {
+          "admincode": "HCGGD",
+          "value": "OB-Operations Branch"
+        },
+        {
+          "admincode": "HCGGE",
+          "value": "PTEEB-Plans, Training, Exercise and Evaluation Branch"
+        },
+        {
+          "admincode": "HCAF",
+          "value": "OADPG-Office of the Associate Director for Program"
+        },
+        {
+          "admincode": "HCAF1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAF13",
+          "value": "OWH-Office of Womens Health"
+        },
+        {
+          "admincode": "HCAQ1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAQ12",
+          "value": "OHSC-Office of Health System Collaboration"
+        },
+        {
+          "admincode": "HCAQB",
+          "value": "PRADO-Policy Research, Analysis, and Development Office"
+        },
+        {
+          "admincode": "HCAT1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAT12",
+          "value": "MATMA-Meeting and Advance Team Management Activity"
+        },
+        {
+          "admincode": "HCAT13",
+          "value": "BOMA-Budget and Operations Management Activity"
+        },
+        {
+          "admincode": "HCATB",
+          "value": "DES-Division of Executive Secretariat"
+        },
+        {
+          "admincode": "HCATC",
+          "value": "DIMAC-Division of Issues Management, Analysis & Coordination"
+        },
+        {
+          "admincode": "HCAUB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAUBB",
+          "value": "DMB-Digital Media Branch"
+        },
+        {
+          "admincode": "HCAUBC",
+          "value": "NMB-News Media Branch"
+        },
+        {
+          "admincode": "HCAUD",
+          "value": "DCS-Division of Communication Services"
+        },
+        {
+          "admincode": "HCAUD1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAUDB",
+          "value": "BSB-Broadcast Services Branch"
+        },
+        {
+          "admincode": "HCAUDC",
+          "value": "GSB-Graphics Services Branch"
+        },
+        {
+          "admincode": "HCCN",
+          "value": "DCAS-Division of Compensation Analysis and Support"
+        },
+        {
+          "admincode": "HCUG",
+          "value": "NCEH-National Center for Environmental Health"
+        },
+        {
+          "admincode": "HCUG1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUG13",
+          "value": "OPPP-Office of Policy, Partnerships, and Planning"
+        },
+        {
+          "admincode": "HCUG14",
+          "value": "OMA-Office of Management and Analytics"
+        },
+        {
+          "admincode": "HCUGB",
+          "value": "DEEHS-Division of Emergency & Enironmental Health Svcs"
+        },
+        {
+          "admincode": "HCUGB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUGBB",
+          "value": "EPHRB-Environmental Public Health Readiness Branch"
+        },
+        {
+          "admincode": "HCUGBC",
+          "value": "EHSB-Environmental Health Services Branch"
+        },
+        {
+          "admincode": "HCUGBE",
+          "value": "VSB-Vessel Sanitation Branch"
+        },
+        {
+          "admincode": "HCUGBG",
+          "value": "HHLPPB-Healthy Homes & Lead Poisoning Prevention Branch"
+        },
+        {
+          "admincode": "HCUGC",
+          "value": "DEHHE-Division of Environmental Hazards & Health Effects"
+        },
+        {
+          "admincode": "HCUGCB",
+          "value": "RSB-Radiation Studies Branch"
+        },
+        {
+          "admincode": "HCUGCC",
+          "value": "APRHB-Air Pollution and Respiratory Health Branch"
+        },
+        {
+          "admincode": "HCUGCD",
+          "value": "EHTB-Environmental Health Tracking Branch"
+        },
+        {
+          "admincode": "HCUGCE",
+          "value": "HSB-Health Studies Branch"
+        },
+        {
+          "admincode": "HCUGD",
+          "value": "DLS-Division of Laboratory Sciences"
+        },
+        {
+          "admincode": "HCUGDC",
+          "value": "IRATB-Inorganic & Radiation Analytical Toxicology Branch"
+        },
+        {
+          "admincode": "HCUGDD",
+          "value": "CCB-Clinical Chemistry Branch"
+        },
+        {
+          "admincode": "HCUGDE",
+          "value": "OATB-Organic Anayltical Toxicology Branch"
+        },
+        {
+          "admincode": "HCUGDG",
+          "value": "NSMBB-Newborn Screening & Molecular Biology Branch"
+        },
+        {
+          "admincode": "HCUGDH",
+          "value": "ERB-Emergency Response Branch"
+        },
+        {
+          "admincode": "HCUGDJ",
+          "value": "NBB-Nutritional Biomarkers Branch"
+        },
+        {
+          "admincode": "HCUH1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUH12",
+          "value": "OPP-Office of Policy and Partnerships"
+        },
+        {
+          "admincode": "HCUH13",
+          "value": "OPMO-Office of Program Management and Operations"
+        },
+        {
+          "admincode": "HCUH132",
+          "value": "PSA-Personnel Services Activity"
+        },
+        {
+          "admincode": "HCUHC",
+          "value": "DVP-Division of Violence Prevention"
+        },
+        {
+          "admincode": "HCUHC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUHCB",
+          "value": "SB-Surveillance Branch"
+        },
+        {
+          "admincode": "HCUHCC",
+          "value": "REB-Research and Evaluation Branch"
+        },
+        {
+          "admincode": "HCUHCD",
+          "value": "PPTB-Prevention Practice and Translation Branch"
+        },
+        {
+          "admincode": "HCUHD",
+          "value": "DUIP-Division of Unintentional Injury Prevention"
+        },
+        {
+          "admincode": "HCUHD1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVA4",
+          "value": "ICU-Influenza Coordination Unit"
+        },
+        {
+          "admincode": "HF",
+          "value": "FMO-FMO"
+        },
+        {
+          "admincode": "HFT",
+          "value": "FMO TEMP-FMO Temporary"
+        },
+        {
+          "admincode": "HFT1",
+          "value": "ADS-Associate Director for Science"
+        },
+        {
+          "admincode": "HFT2",
+          "value": "ADP-Associate Director for Policy"
+        },
+        {
+          "admincode": "HFT3",
+          "value": "OSELS DP-Off of Surveillance, Epidemiology & Lab Serv (Dep Dir)"
+        },
+        {
+          "admincode": "HFT4",
+          "value": "OSELS-Office of Surveillance, Epidemiology & Laboratory Servi"
+        },
+        {
+          "admincode": "HFT5",
+          "value": "ONDIEH-Off of Noncomm Diseases, Injury & Environ Hlt ONDIEH"
+        },
+        {
+          "admincode": "HFT6",
+          "value": "OID-Office of Infectious Diseases"
+        },
+        {
+          "admincode": "HCAJQ",
+          "value": "HRO-Human Resources Office"
+        },
+        {
+          "admincode": "HCUG12",
+          "value": "OC-Office of Communication"
+        },
+        {
+          "admincode": "HCUH",
+          "value": "NCIPC-National Center for Injury Prevention and Control"
+        },
+        {
+          "admincode": "HCAJQ1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJQ12",
+          "value": "ECA-Ethics and Compliance Activity"
+        },
+        {
+          "admincode": "HCAJQB",
+          "value": "SPO-Strategic Programs Office"
+        },
+        {
+          "admincode": "HCAJQC",
+          "value": "CDCUO-CDC University Office"
+        },
+        {
+          "admincode": "HCPA1",
+          "value": "BMO-Business Management Office"
+        },
+        {
+          "admincode": "HCPA2",
+          "value": "OPHG-Office of Public Health Genomics"
+        },
+        {
+          "admincode": "HCPJB",
+          "value": "DHI-Division of Healthcare Information"
+        },
+        {
+          "admincode": "HCPKCB",
+          "value": "CGB-Community Guide Branch"
+        },
+        {
+          "admincode": "HCAUDD",
+          "value": "CI-PSB-CDC-INFO and Print Services Branch"
+        },
+        {
+          "admincode": "HCUCLE",
+          "value": "GTCB-Global Tobacco Control Branch"
+        },
+        {
+          "admincode": "HCUG15",
+          "value": "OS-Office of Science"
+        },
+        {
+          "admincode": "HCUG17",
+          "value": "OEHE-Office of Environmental Health Emergencies"
+        },
+        {
+          "admincode": "HCUGC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUGD1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVL",
+          "value": "NCEZID-Natl Ctr for Emerging & Zoonotic Infectious Diseases"
+        },
+        {
+          "admincode": "HCVL1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVL12",
+          "value": "FSO-Food Safety Office"
+        },
+        {
+          "admincode": "HCVLB",
+          "value": "DFWED-Div of Foodborne, Waterborne & Environmental Diseases"
+        },
+        {
+          "admincode": "HCVLB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLBB",
+          "value": "EDEB-Enteric Diseases Epidemiology Branch"
+        },
+        {
+          "admincode": "HCVLBC",
+          "value": "EDLB-Enteric Diseases Laboratory Branch"
+        },
+        {
+          "admincode": "HCVLBD",
+          "value": "ORPB-Outbreak Response and Prevention Branch"
+        },
+        {
+          "admincode": "HCVLBE",
+          "value": "WDPB-Waterborne Disease Prevention Branch"
+        },
+        {
+          "admincode": "HCVLBG",
+          "value": "MDB-Mycotic Diseases Branch"
+        },
+        {
+          "admincode": "HCVLC",
+          "value": "DGMQ-Division of Global Migration and Quarantine"
+        },
+        {
+          "admincode": "HCVLC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLCB",
+          "value": "QBHSB-Quarantine and Border Health Services Branch"
+        },
+        {
+          "admincode": "HCVLCC",
+          "value": "IRMHB-Immigrant, Refugee, and Migrant Health Branch"
+        },
+        {
+          "admincode": "HCVLCD",
+          "value": "GMHPB-Geographic Medicine and Health Promotion Branch"
+        },
+        {
+          "admincode": "HCVLD",
+          "value": "DHQP-Division of Healthcare Quality Promotion"
+        },
+        {
+          "admincode": "HCVLD1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLDB",
+          "value": "CEMB-Clinical and Environmental Microbiology Branch"
+        },
+        {
+          "admincode": "HCVLDC",
+          "value": "PRB-Prevention and Response Branch"
+        },
+        {
+          "admincode": "HCVLDD",
+          "value": "SB-Surveillance Branch"
+        },
+        {
+          "admincode": "HCVLE",
+          "value": "DHCPP-Division of High-Consequence Pathogens and Pathology"
+        },
+        {
+          "admincode": "HCVLE1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLE12",
+          "value": "PPHO-Prion and Public Health Office"
+        },
+        {
+          "admincode": "HCVLE13",
+          "value": "OHO-One Health Office"
+        },
+        {
+          "admincode": "HCVLEB",
+          "value": "VSPB-Viral Special Pathogens Branch"
+        },
+        {
+          "admincode": "HCVLEC",
+          "value": "PRB-Poxvirus and Rabies Branch"
+        },
+        {
+          "admincode": "HCVLED",
+          "value": "IDPB-Infectious Diseases Pathology Branch"
+        },
+        {
+          "admincode": "HCVLEE",
+          "value": "CVDB-Chronic Viral Diseases Branch"
+        },
+        {
+          "admincode": "HCVLEG",
+          "value": "BSPB-Bacterial Special Pathogens Branch"
+        },
+        {
+          "admincode": "HCVLG",
+          "value": "DPEI-Division of Preparedness and Emerging Infections"
+        },
+        {
+          "admincode": "HCVLG1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLGB",
+          "value": "AIP-Arctic Investigations Program"
+        },
+        {
+          "admincode": "HCVLGC",
+          "value": "SPSB-Scientific and Program Services Branch"
+        },
+        {
+          "admincode": "HCVLGD",
+          "value": "EPRB-Emergency Preparedness and Response Branch"
+        },
+        {
+          "admincode": "HCVLGE",
+          "value": "LPRB-Laboratory Preparedness and Response Branch"
+        },
+        {
+          "admincode": "HCVLH",
+          "value": "DSR-Division of Scientific Resources"
+        },
+        {
+          "admincode": "HCVLH1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLHB",
+          "value": "CMB-Comparative Medical Branch"
+        },
+        {
+          "admincode": "HCVLHD",
+          "value": "BCFB-Biotechnology Core Facility Branch"
+        },
+        {
+          "admincode": "HCVLHG",
+          "value": "RDSB-Reagent and Diagnositc Services Branch"
+        },
+        {
+          "admincode": "HCVLJ",
+          "value": "DVBD-Division of Vector-Borne Diseases"
+        },
+        {
+          "admincode": "HCVLJ1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLJB",
+          "value": "ADB-Arboviral Diseases Branch"
+        },
+        {
+          "admincode": "HCVLJC",
+          "value": "BDB-Bacterial Diseases Branch"
+        },
+        {
+          "admincode": "HCVLJD",
+          "value": "DB-Dengue Branch"
+        },
+        {
+          "admincode": "HCVLJE",
+          "value": "RZB-Rickettsial Zoonoses Branch"
+        },
+        {
+          "admincode": "HFT31",
+          "value": "GEN-Genomics"
+        },
+        {
+          "admincode": "HFT41",
+          "value": "LS-Lab Services"
+        },
+        {
+          "admincode": "HFT42",
+          "value": "PHI-P H Informatics"
+        },
+        {
+          "admincode": "HFT43",
+          "value": "PHS-P H Surveillance"
+        },
+        {
+          "admincode": "HFT44",
+          "value": "EA-Epi and Analysis"
+        },
+        {
+          "admincode": "HFT45",
+          "value": "SEPD-SEPD"
+        },
+        {
+          "admincode": "HCUBDB",
+          "value": "ESB-Epidemiology and Surveillance Branch"
+        },
+        {
+          "admincode": "HCUBDC",
+          "value": "HLB-Hemostasis Laboratory Branch"
+        },
+        {
+          "admincode": "HCUBDD",
+          "value": "PRIB-Prevention Research and Informatics Branch"
+        },
+        {
+          "admincode": "HJAA7",
+          "value": "OCOM-Office of Communication"
+        },
+        {
+          "admincode": "HCVJ12",
+          "value": "OADS-Ofc of the Associate Director for Science"
+        },
+        {
+          "admincode": "HCVJ13",
+          "value": "IO-Informatics Office"
+        },
+        {
+          "admincode": "HCVJ15",
+          "value": "OMPS-Office of Management and Program Support"
+        },
+        {
+          "admincode": "HCVJ16",
+          "value": "OPPP-Office of Policy, Planning and Partnerships"
+        },
+        {
+          "admincode": "HCVJ17",
+          "value": "HCSO-Health Communication Science Office"
+        },
+        {
+          "admincode": "HCVJDJ",
+          "value": "dirb-Disease Intervention and Response Branch"
+        },
+        {
+          "admincode": "HCUG121",
+          "value": "WE-Writer Editors"
+        },
+        {
+          "admincode": "HJAA71",
+          "value": "WE-Writer Editors"
+        },
+        {
+          "admincode": "HJAA72",
+          "value": "RR-Records Room"
+        },
+        {
+          "admincode": "HCVJCG2",
+          "value": "LBIP-Lab Branch Intra-X Projects"
+        },
+        {
+          "admincode": "HCCMD",
+          "value": "DMST-Division of Mining Science and Technology"
+        },
+        {
+          "admincode": "HCCMDB",
+          "value": "HCSRSB-Hlth Communications, Surveillance & Research Spt Br"
+        },
+        {
+          "admincode": "HCCME",
+          "value": "DMRO-Division of Mining Research Operations"
+        },
+        {
+          "admincode": "HCCMEB",
+          "value": "GCB-Ground Control Branch"
+        },
+        {
+          "admincode": "HCCMEC",
+          "value": "DVTSB-Dust}, Ventilation and Toxic Substances Branch"
+        },
+        {
+          "admincode": "HCCMED",
+          "value": "HFB-Human Factors Branch"
+        },
+        {
+          "admincode": "HCCMEE",
+          "value": "EMSB-Electrical and Mechanical Systems Branch"
+        },
+        {
+          "admincode": "HCCMEG",
+          "value": "FEB-Fires and Explosives Branch"
+        },
+        {
+          "admincode": "HCCMEH",
+          "value": "HLPB-Hearing Loss Prevention Branch"
+        },
+        {
+          "admincode": "HCUH14",
+          "value": "OC-Office of Communication"
+        },
+        {
+          "admincode": "HCVLD13",
+          "value": "ARCS-Antimicrobial Resistance Coordination and Strategy Unit"
+        },
+        {
+          "admincode": "HCVLDE",
+          "value": "ISO-Immunization Safety Office"
+        },
+        {
+          "admincode": "HCWGJ2B",
+          "value": "KE-Kenya"
+        },
+        {
+          "admincode": "HCWGJ2D",
+          "value": "LE-Lesotho"
+        },
+        {
+          "admincode": "HCWGJ2G",
+          "value": "MO-Mozambique"
+        },
+        {
+          "admincode": "HCWGJ2L",
+          "value": "RW-Rwanda"
+        },
+        {
+          "admincode": "HCUBC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUBCB",
+          "value": "CDDB-Child Development and Disability Branch"
+        },
+        {
+          "admincode": "HCUBCC",
+          "value": "DHB-Disability and Health Branch"
+        },
+        {
+          "admincode": "HCVG12",
+          "value": "OI-Office of Informatics"
+        },
+        {
+          "admincode": "HCVG13",
+          "value": "OP-Office of Policy"
+        },
+        {
+          "admincode": "HCVG15",
+          "value": "OHCS-Office of Health Communications Science"
+        },
+        {
+          "admincode": "HCVG16",
+          "value": "OMO-Office of Management and Operations"
+        },
+        {
+          "admincode": "HCVG17",
+          "value": "OS-Office of Science"
+        },
+        {
+          "admincode": "HCUGC12",
+          "value": "CCP-Climate Change Program"
+        },
+        {
+          "admincode": "HCUCN",
+          "value": "DCH-Division of Community Health"
+        },
+        {
+          "admincode": "HCGCC4",
+          "value": "SI&AR-Science Integration & Applied Research"
+        },
+        {
+          "admincode": "HCGC12",
+          "value": "ITSP-Informatics and Tech Support"
+        },
+        {
+          "admincode": "HCUCP",
+          "value": "DPH-Division of Population Health"
+        },
+        {
+          "admincode": "HCUCP1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUCPB",
+          "value": "PRTB-Prevention Research and Translation Branch"
+        },
+        {
+          "admincode": "HCUCPC",
+          "value": "HAB-Healthy Aging Branch"
+        },
+        {
+          "admincode": "HCUCPE",
+          "value": "ESB-Epidemiology and Surveillance Branch"
+        },
+        {
+          "admincode": "HCUCPG",
+          "value": "HSB-Healthy Schools Branch"
+        },
+        {
+          "admincode": "HCVJJ",
+          "value": "DASH-Division of Adolescent and School Health"
+        },
+        {
+          "admincode": "HCVJJ1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVJJB",
+          "value": "PDSB-Program Development and Services Branch"
+        },
+        {
+          "admincode": "HCVJJC",
+          "value": "RAEB-Research Application and Evaluation Branch"
+        },
+        {
+          "admincode": "HCVJJD",
+          "value": "SBSB-School-Based Surveillance Branch"
+        },
+        {
+          "admincode": "HCUC1B",
+          "value": "OMS-Office of Medicine and Science"
+        },
+        {
+          "admincode": "HJAAM",
+          "value": "DCHI-Division of Community Health Investigations"
+        },
+        {
+          "admincode": "HJAAM1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HJAAM12",
+          "value": "WDO-Washington DC Office"
+        },
+        {
+          "admincode": "HJAAMB",
+          "value": "EB-Eastern Branch"
+        },
+        {
+          "admincode": "HJAAMB2",
+          "value": "R1O-Region 1 Office"
+        },
+        {
+          "admincode": "HJAAMB3",
+          "value": "R2O-Region 2 Office"
+        },
+        {
+          "admincode": "HJAAMB4",
+          "value": "R3O-Region 3 Office"
+        },
+        {
+          "admincode": "HJAAMC",
+          "value": "CB-Central Branch"
+        },
+        {
+          "admincode": "HJAAMC2",
+          "value": "R4O-Region 4 Office"
+        },
+        {
+          "admincode": "HJAAMC3",
+          "value": "R5O-Region 5 Office"
+        },
+        {
+          "admincode": "HJAAMC4",
+          "value": "R6O-Region 6 Office"
+        },
+        {
+          "admincode": "HJAAMD",
+          "value": "WB-Western Branch"
+        },
+        {
+          "admincode": "HJAAMD2",
+          "value": "R7O-Region 7 Office"
+        },
+        {
+          "admincode": "HJAAMD3",
+          "value": "RGO-Region 8 Office"
+        },
+        {
+          "admincode": "HJAAMD4",
+          "value": "R9O-Region 9 Office"
+        },
+        {
+          "admincode": "HJAAMD5",
+          "value": "R10O-Region 10 Office"
+        },
+        {
+          "admincode": "HJAAME",
+          "value": "SSB-Science Support Branch"
+        },
+        {
+          "admincode": "HJAAN",
+          "value": "DTHHS-Division of Toxicology and Human Health Sciences"
+        },
+        {
+          "admincode": "HJAAN1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HJAAN12",
+          "value": "ERP-Emergency Response Program"
+        },
+        {
+          "admincode": "HJAAN13",
+          "value": "GRASP-Geospatial Research, Analysis and Services Program"
+        },
+        {
+          "admincode": "HJAANB",
+          "value": "EEB-Environmental Epidemiology Branch"
+        },
+        {
+          "admincode": "HJAAND",
+          "value": "EMB-Environmental Medicine Branch"
+        },
+        {
+          "admincode": "HJAANC",
+          "value": "EHSB-Environmental Health Surveillance Branch"
+        },
+        {
+          "admincode": "HCAJR",
+          "value": "OCIO-Office of the Chief Information Officer"
+        },
+        {
+          "admincode": "HCAJRD",
+          "value": "MISO-Management Information Systems Office"
+        },
+        {
+          "admincode": "HCAJRE",
+          "value": "OCISO-Office of the Chief Information Security Office"
+        },
+        {
+          "admincode": "HCAJRE1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJREB",
+          "value": "OARB-Operations, Anaysis and Response Branch"
+        },
+        {
+          "admincode": "HCAJREC",
+          "value": "PPB-Policy and Planning Branch"
+        },
+        {
+          "admincode": "HCAJRB",
+          "value": "ITSO-Information Technology Services Office"
+        },
+        {
+          "admincode": "HCAJRB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJRBB",
+          "value": "OB-Operations Branch"
+        },
+        {
+          "admincode": "HCAJRBC",
+          "value": "NTB-Network Technology Branch"
+        },
+        {
+          "admincode": "HCAJRBD",
+          "value": "CSB-Customer Services Branch"
+        },
+        {
+          "admincode": "HCAJ1P",
+          "value": "BISM-BISM"
+        },
+        {
+          "admincode": "HJAANE",
+          "value": "ETB-Environmental Toxicology Branch"
+        },
+        {
+          "admincode": "HCAJRD2",
+          "value": "ONM-OCOO Non-MISO Contractors"
+        },
+        {
+          "admincode": "HCAJR1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJR12",
+          "value": "EITPO-Enterprise Information Technology Portfolio Office"
+        },
+        {
+          "admincode": "HCAJR13",
+          "value": "FOIA-Freedom of Information Act Office"
+        },
+        {
+          "admincode": "HCAJR14",
+          "value": "APMO-Acquisition Program Management Office"
+        },
+        {
+          "admincode": "HCAJR142",
+          "value": "APMOC-APMO Contractors"
+        },
+        {
+          "admincode": "HCUG1B",
+          "value": "DOPF-DTHHS OD Pass-thru Funding"
+        },
+        {
+          "admincode": "HCUG142",
+          "value": "IS-Information Systems"
+        },
+        {
+          "admincode": "HCUGDK",
+          "value": "TVB-Tobacco and Volatiles Branch"
+        },
+        {
+          "admincode": "HJAA21B",
+          "value": "IST-Information Services Team"
+        },
+        {
+          "admincode": "HCAJQ14",
+          "value": "CCA-Commissioned Corps Activity"
+        },
+        {
+          "admincode": "HCAJQ15",
+          "value": "PCA-Policy and Communications Activity"
+        },
+        {
+          "admincode": "HCAJQB3",
+          "value": "WPA-Workforce Planning Activity"
+        },
+        {
+          "admincode": "HCAJQC2",
+          "value": "DADE-Developmental Assessment, Design and Evaluation Activity"
+        },
+        {
+          "admincode": "HCAJQC3",
+          "value": "TAA-Training Administration Activity"
+        },
+        {
+          "admincode": "HCAJQC4",
+          "value": "PDA-Program Development Activity"
+        },
+        {
+          "admincode": "HCAJQC5",
+          "value": "CDA-Curricula Development Activity"
+        },
+        {
+          "admincode": "HCAJQD",
+          "value": "WRO-Workforce Relations Office"
+        },
+        {
+          "admincode": "HCAJQD4",
+          "value": "PMSRRA-Performance Management, Strategic Rewards and Worklife Activity"
+        },
+        {
+          "admincode": "HCAJQD3",
+          "value": "EBPWCA-Employee Benefits, Payroll and Worker\\'s Compensation Activity"
+        },
+        {
+          "admincode": "HCAJQD2",
+          "value": "ELRA-Employee and Labor Relations Activity"
+        },
+        {
+          "admincode": "HCAJQE",
+          "value": "CSO-Client Services Office"
+        },
+        {
+          "admincode": "HCAJQE3",
+          "value": "CSA2-Customer Staffing Activity 2"
+        },
+        {
+          "admincode": "HCAJQE4",
+          "value": "CSA3-Customer Staffing Activity 3"
+        },
+        {
+          "admincode": "HCAJQE6",
+          "value": "TSA-Technical Services Activity"
+        },
+        {
+          "admincode": "HCAJQE2",
+          "value": "CSA1-Customer Staffing Activity 1"
+        },
+        {
+          "admincode": "HCAJQG",
+          "value": "ESRO-Executive and Scientific Resources Office"
+        },
+        {
+          "admincode": "HCAJQG2",
+          "value": "SECPA-Senior Executive Compensation and Performance Activity"
+        },
+        {
+          "admincode": "HCAJQG3",
+          "value": "TIA-Title 42 Staffing and Recruitment Activity"
+        },
+        {
+          "admincode": "HCAJQ17",
+          "value": "OMA-Operations Management Activity"
+        },
+        {
+          "admincode": "HJAAP",
+          "value": "OADS-Office of the Associate Director for Science"
+        },
+        {
+          "admincode": "HCAJQD5",
+          "value": "CSHA-Customer Service Helpdesk Activity"
+        },
+        {
+          "admincode": "HCAJQE7",
+          "value": "CSA4-Customer Staffing Activity 4"
+        },
+        {
+          "admincode": "HCPKEC",
+          "value": "CGB-Community Guide Branch"
+        },
+        {
+          "admincode": "HCUH17",
+          "value": "OS-Office of Science"
+        },
+        {
+          "admincode": "HCUHDB",
+          "value": "HRTB-Home, Recreation and Transportation Branch"
+        },
+        {
+          "admincode": "HCUHDC",
+          "value": "HSTSB-Health Systems and Trauma Systems Branch"
+        },
+        {
+          "admincode": "HCUHFC",
+          "value": "PIEB-Program Implementation and Evaluation Branch"
+        },
+        {
+          "admincode": "HCUG131",
+          "value": "PPT-Partnership and Policy Team"
+        },
+        {
+          "admincode": "HCUG132",
+          "value": "CRIMT-Congressional Relations and Issues Management Team"
+        },
+        {
+          "admincode": "HCUG134",
+          "value": "BPET-Budget Performance and Evaluation Team"
+        },
+        {
+          "admincode": "HCUG122",
+          "value": "HCT-Health Communications Team"
+        },
+        {
+          "admincode": "HCUG123",
+          "value": "OET-Outreach and Evaluation Team"
+        },
+        {
+          "admincode": "HCUG141",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUG1412",
+          "value": "AS-Administrative Services"
+        },
+        {
+          "admincode": "HCUG1413",
+          "value": "EP-Extramural Programs"
+        },
+        {
+          "admincode": "HCUG1414",
+          "value": "PIT-Performance and Integration Team"
+        },
+        {
+          "admincode": "HJAA8",
+          "value": "OTA-Office of Tribal Affairs"
+        },
+        {
+          "admincode": "HJAA32",
+          "value": "PPT-Partnership and Policy Team"
+        },
+        {
+          "admincode": "HJAA33",
+          "value": "IMT-Issues Management Team"
+        },
+        {
+          "admincode": "HJAA34",
+          "value": "BPET-Budget Performance and Evaluation Team"
+        },
+        {
+          "admincode": "HJAA73",
+          "value": "HCT-Health Communicatioins Team"
+        },
+        {
+          "admincode": "HJAA74",
+          "value": "OET-Outreach and Evaluation Team"
+        },
+        {
+          "admincode": "HCUHCB2",
+          "value": "MST-Mortality Surveillance Team"
+        },
+        {
+          "admincode": "HCUHCB3",
+          "value": "MBST-Morbidity and Behavioral Surveillance Team"
+        },
+        {
+          "admincode": "HCUHCB4",
+          "value": "VSCT-Violence Surveillance Coordination Team"
+        },
+        {
+          "admincode": "HCUHCC2",
+          "value": "YVEMT-Youth Violence and Emerging Topics Team"
+        },
+        {
+          "admincode": "HCUHCC3",
+          "value": "CANAT-Child Abuse Neglect and Adversity Team"
+        },
+        {
+          "admincode": "HCUHCC4",
+          "value": "SIVT-Sexual and Intimate Partner Violence Team"
+        },
+        {
+          "admincode": "HCUHCD2",
+          "value": "APIPT-Adversity Prevention and Implementation Practice Team"
+        },
+        {
+          "admincode": "HCUHCD3",
+          "value": "SVPT-Sexual Violence Prevention Team"
+        },
+        {
+          "admincode": "HCUHCD4",
+          "value": "TCTT-TA Coordination and Translation Team"
+        },
+        {
+          "admincode": "HCUHDB2",
+          "value": "TST-Transportation Safety Team"
+        },
+        {
+          "admincode": "HCUHDB3",
+          "value": "HRT-Home and Recreation Team"
+        },
+        {
+          "admincode": "HCUHDC2",
+          "value": "PDOEST-Prescription Drug Overdose Epidemiology and Surveillance Team"
+        },
+        {
+          "admincode": "HCUHDC3",
+          "value": "TBIT-Traumatic Brain Injury Team"
+        },
+        {
+          "admincode": "HCUHDC4",
+          "value": "PDOHSSST-Prescription Drug Overdose Health Systems and State Support Team"
+        },
+        {
+          "admincode": "HCUHF",
+          "value": "DIP-Division of Injury Prevention"
+        },
+        {
+          "admincode": "HCUHFB",
+          "value": "ASB-Applied Sciences Branch"
+        },
+        {
+          "admincode": "HCUHF1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUHFB2",
+          "value": "TST-Transportation Safety Team"
+        },
+        {
+          "admincode": "HCUHFB3",
+          "value": "TBIT-Traumatic Brain Injury Team"
+        },
+        {
+          "admincode": "HCUHFB4",
+          "value": "SAPT-Safety Promotion Team"
+        },
+        {
+          "admincode": "HCUHFC2",
+          "value": "SLTST-State, Local & Tribal Support Team"
+        },
+        {
+          "admincode": "HCUHFC3",
+          "value": "ET-Evaluation Team"
+        },
+        {
+          "admincode": "HCAJE15",
+          "value": "N/A-WCF (NOT TO BE USED)"
+        },
+        {
+          "admincode": "HCAJEU",
+          "value": "OFA-Office of Finance and Accounting Services"
+        },
+        {
+          "admincode": "HCAJEU1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJEUB",
+          "value": "AB-Accounting Branch"
+        },
+        {
+          "admincode": "HCAJEUC",
+          "value": "FSB-Financial Systems Branch"
+        },
+        {
+          "admincode": "HCAJEUD",
+          "value": "CPB-Commercial Payments Branch"
+        },
+        {
+          "admincode": "HCAJEUE",
+          "value": "DMB-Debt Management Branch"
+        },
+        {
+          "admincode": "HCAJEUG",
+          "value": "TIIPB-Travel, IMPAC, and International Payment Branch"
+        },
+        {
+          "admincode": "HCAJEV1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJEV12",
+          "value": "BOU-Budget Operations Unit"
+        },
+        {
+          "admincode": "HCUH172",
+          "value": "ERPO-Extramural Research Program Operations"
+        },
+        {
+          "admincode": "HCAUBD",
+          "value": "EERB-External and Employee Relations Branch"
+        },
+        {
+          "admincode": "HCAJS",
+          "value": "OSSAM-Office of the Safety, Security and Asset Management"
+        },
+        {
+          "admincode": "HCAJS1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJS14",
+          "value": "PHIO-Public Health Intelligence Office"
+        },
+        {
+          "admincode": "HCAU13",
+          "value": "OCS-Office of Communication Science"
+        },
+        {
+          "admincode": "HCAUD12",
+          "value": "CI-CDC-INFO"
+        },
+        {
+          "admincode": "HCAJS12",
+          "value": "OFAIS-Office of Finanical, Administrative and Information Services"
+        },
+        {
+          "admincode": "HCAJS13",
+          "value": "OO-Office of Operations"
+        },
+        {
+          "admincode": "HCAJS15",
+          "value": "QSO-Quality and Sustainability Office"
+        },
+        {
+          "admincode": "HCAJSB",
+          "value": "AMSO-Asset Management Services Office"
+        },
+        {
+          "admincode": "HCAJSB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJSB12",
+          "value": "LPMS-Leased Property Management Services"
+        },
+        {
+          "admincode": "HCAJSBB",
+          "value": "EMOSO-Engineering, Maintenance, and Operations Services Office"
+        },
+        {
+          "admincode": "HCAJSBC",
+          "value": "PCMSO-Projects and Construction Management Services Office"
+        },
+        {
+          "admincode": "HCAJSBD",
+          "value": "LMSO-Logistics Management Services Office"
+        },
+        {
+          "admincode": "HCAJSBE",
+          "value": "DEMSO-Design Support Services Office"
+        },
+        {
+          "admincode": "HCAJSC",
+          "value": "OHSO-Occupational Health and Safety Office"
+        },
+        {
+          "admincode": "HCAJSC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJSD",
+          "value": "WWO-Worklife Wellness Office"
+        },
+        {
+          "admincode": "HCAJSE",
+          "value": "SSO-Security Services Office"
+        },
+        {
+          "admincode": "HCAJSE1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCAJSEB",
+          "value": "PSLTB-Physical Security Laboratory and Technical Branch"
+        },
+        {
+          "admincode": "HCAJSEC",
+          "value": "PSOB-Physical Security Operations Branch"
+        },
+        {
+          "admincode": "HCAJSED",
+          "value": "PSB-Personnel Security Branch"
+        },
+        {
+          "admincode": "HCAJSG",
+          "value": "LPMSO-Logistics and Property Management Services Office"
+        },
+        {
+          "admincode": "HCUB13",
+          "value": "HCSO-Health Communication and Science Office (Activity Level 5)"
+        },
+        {
+          "admincode": "HCUB14",
+          "value": "NSS-NCBDDD Shared Services (Activity Level 5)"
+        },
+        {
+          "admincode": "HCAJEV",
+          "value": "OB-Office of Budget"
+        },
+        {
+          "admincode": "HCGCD",
+          "value": "FSB-Field Services Branch"
+        },
+        {
+          "admincode": "HCGCD2",
+          "value": "PT-PFA Team"
+        },
+        {
+          "admincode": "HCAJSBC2",
+          "value": "BFRI-B&F/R&I Funds"
+        },
+        {
+          "admincode": "HCAX1",
+          "value": "DDF-Director\\'s Discretionary Fund"
+        },
+        {
+          "admincode": "HCAX2",
+          "value": "CAS-Centralized Administrative Services"
+        },
+        {
+          "admincode": "HCAJ1X",
+          "value": "CI-CDC Initiatives"
+        },
+        {
+          "admincode": "HCVGDXBD",
+          "value": "Bangl-Bangladesh"
+        },
+        {
+          "admincode": "HCVGDXCG",
+          "value": "Congo-Congo, Republic of"
+        },
+        {
+          "admincode": "HCVGDXCD",
+          "value": "DRC-Congo DRC"
+        },
+        {
+          "admincode": "HCVGDXCH",
+          "value": "Switz-Switzerland"
+        },
+        {
+          "admincode": "HCVGDXCN",
+          "value": "China-China"
+        },
+        {
+          "admincode": "HCVGDXDK",
+          "value": "Den-Denmark"
+        },
+        {
+          "admincode": "HCVGDXEG",
+          "value": "Egypt-Egypt"
+        },
+        {
+          "admincode": "HCVGDXET",
+          "value": "Ethio-Ethiopia"
+        },
+        {
+          "admincode": "HCVGDXGH",
+          "value": "Ghana-Ghana"
+        },
+        {
+          "admincode": "HCVGDXGT",
+          "value": "Guat-Guatemala"
+        },
+        {
+          "admincode": "HCVGDXID",
+          "value": "Indo-Indonesia"
+        },
+        {
+          "admincode": "HCVGDXIN",
+          "value": "India-India"
+        },
+        {
+          "admincode": "HCVGDXKE",
+          "value": "Kenya-Kenya"
+        },
+        {
+          "admincode": "HCVGDXKH",
+          "value": "Camb-Cambodia"
+        },
+        {
+          "admincode": "HCVGDXNG",
+          "value": "Nig-Nigeria"
+        },
+        {
+          "admincode": "HCVGDXPH",
+          "value": "Phil-Philippines"
+        },
+        {
+          "admincode": "HCVGDXRW",
+          "value": "Rwa-Rwanda"
+        },
+        {
+          "admincode": "HCVGDXSG",
+          "value": "Sing-Singapore"
+        },
+        {
+          "admincode": "HCVGDXTH",
+          "value": "Thai-Thailand"
+        },
+        {
+          "admincode": "HCVGDXTZ",
+          "value": "Tanz-Tanzania"
+        },
+        {
+          "admincode": "HCVGDXVN",
+          "value": "Viet-Vietnam"
+        },
+        {
+          "admincode": "HCVGDXZA",
+          "value": "SoAf-South Africa"
+        },
+        {
+          "admincode": "HCVGDXZM",
+          "value": "Zam-Zambia"
+        },
+        {
+          "admincode": "HCVGGXBF",
+          "value": "BurFa-Burkina Faso"
+        },
+        {
+          "admincode": "HCVJCXBW",
+          "value": "Bot-Botswana"
+        },
+        {
+          "admincode": "HCVJCXTH",
+          "value": "Thai-Thailand"
+        },
+        {
+          "admincode": "HCVJCXUG",
+          "value": "Ugan-Uganda"
+        },
+        {
+          "admincode": "HCVJEXBW",
+          "value": "Bot-Botswana"
+        },
+        {
+          "admincode": "HCVLCXKE",
+          "value": "Kenya-Kenya"
+        },
+        {
+          "admincode": "HCVLCXTH",
+          "value": "Thai-Thailand"
+        },
+        {
+          "admincode": "HCVLEXCD",
+          "value": "DRC-Congo DRC"
+        },
+        {
+          "admincode": "HCVLEXTH",
+          "value": "Thai-Thailand"
+        },
+        {
+          "admincode": "HCVLEXUG",
+          "value": "Ugan-Ugnada"
+        },
+        {
+          "admincode": "HCPA3",
+          "value": "HITSSU-Health Information Technology and Surveillance Strategy Unit"
+        },
+        {
+          "admincode": "HCPN",
+          "value": "CSELS-Center for Surveillance, Epidemiology, and Laboratory Services"
+        },
+        {
+          "admincode": "HCPN1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCVLCXMX",
+          "value": "Mexico-Mexico"
+        },
+        {
+          "admincode": "HCVLJXKH",
+          "value": "Camb-Cambodia"
+        },
+        {
+          "admincode": "HCVLJXUG",
+          "value": "Ugan-Uganda"
+        },
+        {
+          "admincode": "HCVJCXKE",
+          "value": "Kenya-Kenya"
+        },
+        {
+          "admincode": "HCVJDXCH",
+          "value": "Switz-Switzerland"
+        },
+        {
+          "admincode": "HCVJEXHT",
+          "value": "Haiti-Haiti"
+        },
+        {
+          "admincode": "HCVJEXTH",
+          "value": "Thai-Thailand"
+        },
+        {
+          "admincode": "HCVJEXIN",
+          "value": "India-India"
+        },
+        {
+          "admincode": "HCVJEXKE",
+          "value": "Kenya-Kenya"
+        },
+        {
+          "admincode": "HCVJHXCH",
+          "value": "Switz-Switzerland"
+        },
+        {
+          "admincode": "HCPN18",
+          "value": "BMO-Business Management Office"
+        },
+        {
+          "admincode": "HCVGDXPE",
+          "value": "Peru"
+        },
+        {
+          "admincode": "HCPNB",
+          "value": "DLS-Division of Laboratory Systems"
+        },
+        {
+          "admincode": "HCPNB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCPNB12",
+          "value": "BMA-Business Management Activity"
+        },
+        {
+          "admincode": "HCPNBB",
+          "value": "LSCB-Laboratory Services and Compliance Branch"
+        },
+        {
+          "admincode": "HCPNBC",
+          "value": "TWDB-Training and Workforce Development Branch"
+        },
+        {
+          "admincode": "HCPNBD",
+          "value": "QSSB-Quality and Safety Systems Branch"
+        },
+        {
+          "admincode": "HCPNBE",
+          "value": "IDSB-Informatics and Data Science Branch"
+        },
+        {
+          "admincode": "HCPNC",
+          "value": "DPHID-Division of Public Health Information and Dissemination"
+        },
+        {
+          "admincode": "HCPNCB",
+          "value": "ATMB-Analytic Tools and Methods Branch"
+        },
+        {
+          "admincode": "HCPNCC",
+          "value": "CGB-Community Guide Branch"
+        },
+        {
+          "admincode": "HCPNCD",
+          "value": "LSSB-Library Science and Services Branch"
+        },
+        {
+          "admincode": "HCPND",
+          "value": "DSEPD-Division of Scientific Education and Professional Development"
+        },
+        {
+          "admincode": "HCPND1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCPND13",
+          "value": "BMA-Business Management Activity"
+        },
+        {
+          "admincode": "HCPNDB",
+          "value": "ETSB-Education and Training Services Branch"
+        },
+        {
+          "admincode": "HCPNDC",
+          "value": "EWB-Epidemiology Workforce Branch"
+        },
+        {
+          "admincode": "HCPNDD",
+          "value": "PHWB-Population Health Workforce Branch"
+        },
+        {
+          "admincode": "HCPNE",
+          "value": "DHIS-Division of Health Informatics and Surveillance"
+        },
+        {
+          "admincode": "HCPNE1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCPNE12",
+          "value": "BSA-Business Services Activity"
+        },
+        {
+          "admincode": "HCPNEB",
+          "value": "ISB-Informatics Systems Branch"
+        },
+        {
+          "admincode": "HCPNEC",
+          "value": "SDB-Surveillance and Data Branch"
+        },
+        {
+          "admincode": "HCPNED",
+          "value": "PEB-Partnerships and Evaluation Branch"
+        },
+        {
+          "admincode": "HCPNC1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUCPH",
+          "value": "PHSB-Population Health Surveillance Branch"
+        },
+        {
+          "admincode": "HCAJQB2",
+          "value": "HCEAA-Human Capital Effectiveness and Accountability Activity"
+        },
+        {
+          "admincode": "HCAJQB4",
+          "value": "isdaa-Information Systems and Data Analytics Activity"
+        },
+        {
+          "admincode": "HCAJQE5",
+          "value": "CAA-Classification and Advisory Activity"
+        },
+        {
+          "admincode": "HJAAN14",
+          "value": "CTL-Computational Toxicology Lab"
+        }
   ]
 }
