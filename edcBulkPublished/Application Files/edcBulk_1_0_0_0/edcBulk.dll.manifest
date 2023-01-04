@@ -546,7 +546,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>LF9ngst1YYtgdNsYyjHnIrxvsyqeRzQIuRCqaOYvhiE=</dsig:DigestValue>
+      <dsig:DigestValue>ZIFHG4vj7xeM9fcBQcrf7SFfaJAMdEU8VKC5/RYdlRo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="edcBulk.dll.config" size="3012">
