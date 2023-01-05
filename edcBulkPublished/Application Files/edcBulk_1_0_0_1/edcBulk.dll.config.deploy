@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="edcBulk.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <configProtectedData defaultProvider="RSAProvider">
+        <providers>
+            <add name="RSAEncriptionProvider" type="System.Configuration.RsaProtectedConfigurationProvider, &#xD;&#xA;              &#xD;&#xA;        System.Configuration, Version=2.0.0.0, Culture=neutral, &#xD;&#xA;              &#xD;&#xA;        PublicKeyToken=b03f5f7f11d50a3a,&#xD;&#xA;             &#xD;&#xA;        processorArchitecture=MSIL" keyContainerName="edcBulkKeys" useMachineContainer="true" />
+        </providers>
+    </configProtectedData>
+    <appSettings>
+      <add key="alation.ServiceUri" value="dev.alation.edav.cdc.gov" />
+    </appSettings>
+  <system.diagnostics>
+    <trace autoflush="true" indentsize="3">
+      <listeners>
+        <add name="myListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="edcBulk.log" />
+        <remove name="Default" />
+      </listeners>
+    </trace>
+  </system.diagnostics>
+    <runtime>
+        <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+            <dependentAssembly>
+                <assemblyIdentity name="System.Memory" publicKeyToken="cc7b13ffcd2ddd51" culture="neutral" />
+                <bindingRedirect oldVersion="0.0.0.0-4.0.1.1" newVersion="4.0.1.1" />
+            </dependentAssembly>
+        </assemblyBinding>
+    </runtime>
+    <userSettings>
+        <edcBulk.Properties.Settings>
+            <setting name="AccessToken" serializeAs="String">
+                <value>unknown</value>
+            </setting>
+            <setting name="RefreshToken" serializeAs="String">
+                <value>unknown</value>
+            </setting>
+            <setting name="LastServerName" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="LastLogin" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="RememberChecked" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="userid" serializeAs="String">
+                <value>51</value>
+            </setting>
+            <setting name="StoreMetaFilePath" serializeAs="String">
+                <value>c:\\MyMeta</value>
+            </setting>
+            <setting name="orgid" serializeAs="String">
+                <value>admincodes</value>
+            </setting>
+        </edcBulk.Properties.Settings>
+    </userSettings>
+</configuration>
