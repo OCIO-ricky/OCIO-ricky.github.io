@@ -1,0 +1,92 @@
+{
+  "AdminCodes": [
+        {
+          "admincode": "HCUG",
+          "value": "NCEH-National Center for Environmental Health"
+        },
+        {
+          "admincode": "HCUG1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUG13",
+          "value": "OPPP-Office of Policy, Partnerships, and Planning"
+        },
+        {
+          "admincode": "HCUG14",
+          "value": "OMA-Office of Management and Analytics"
+        },
+        {
+          "admincode": "HCUGB",
+          "value": "DEEHS-Division of Emergency & Enironmental Health Svcs"
+        },
+        {
+          "admincode": "HCUGB1",
+          "value": "OD-Office of the Director"
+        },
+        {
+          "admincode": "HCUGBB",
+          "value": "EPHRB-Environmental Public Health Readiness Branch"
+        },
+        {
+          "admincode": "HCUGBC",
+          "value": "EHSB-Environmental Health Services Branch"
+        },
+        {
+          "admincode": "HCUGBE",
+          "value": "VSB-Vessel Sanitation Branch"
+        },
+        {
+          "admincode": "HCUGBG",
+          "value": "HHLPPB-Healthy Homes & Lead Poisoning Prevention Branch"
+        },
+        {
+          "admincode": "HCUGC",
+          "value": "DEHHE-Division of Environmental Hazards & Health Effects"
+        },
+        {
+          "admincode": "HCUGCB",
+          "value": "RSB-Radiation Studies Branch"
+        },
+        {
+          "admincode": "HCUGCC",
+          "value": "APRHB-Air Pollution and Respiratory Health Branch"
+        },
+        {
+          "admincode": "HCUGCD",
+          "value": "EHTB-Environmental Health Tracking Branch"
+        },
+        {
+          "admincode": "HCUGCE",
+          "value": "HSB-Health Studies Branch"
+        },
+        {
+          "admincode": "HCUGD",
+          "value": "DLS-Division of Laboratory Sciences"
+        },
+        {
+          "admincode": "HCUGDC",
+          "value": "IRATB-Inorganic & Radiation Analytical Toxicology Branch"
+        },
+        {
+          "admincode": "HCUGDD",
+          "value": "CCB-Clinical Chemistry Branch"
+        },
+        {
+          "admincode": "HCUGDE",
+          "value": "OATB-Organic Anayltical Toxicology Branch"
+        },
+        {
+          "admincode": "HCUGDG",
+          "value": "NSMBB-Newborn Screening & Molecular Biology Branch"
+        },
+        {
+          "admincode": "HCUGDH",
+          "value": "ERB-Emergency Response Branch"
+        },
+        {
+          "admincode": "HCUGDJ",
+          "value": "NBB-Nutritional Biomarkers Branch"
+        }
+	]
+}
